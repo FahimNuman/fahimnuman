@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Assignment5\Devskill.LibrarySystem.Web\DevSkill.Library.Framework\bin\Debug\netcoreapp3.1\DevSkill.Library.Framework.deps.json
+C:\Users\Admin\Desktop\Assignment5\Devskill.LibrarySystem.Web\DevSkill.Library.Framework\bin\Debug\netcoreapp3.1\DevSkill.Library.Framework.dll
+C:\Users\Admin\Desktop\Assignment5\Devskill.LibrarySystem.Web\DevSkill.Library.Framework\bin\Debug\netcoreapp3.1\DevSkill.Library.Framework.pdb
+C:\Users\Admin\Desktop\Assignment5\Devskill.LibrarySystem.Web\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Assignment5\Devskill.LibrarySystem.Web\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Assignment5\Devskill.LibrarySystem.Web\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Assignment5\Devskill.LibrarySystem.Web\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.dll
+C:\Users\Admin\Desktop\Assignment5\Devskill.LibrarySystem.Web\DevSkill.Library.Framework\obj\Debug\netcoreapp3.1\DevSkill.Library.Framework.pdb
